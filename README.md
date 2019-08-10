@@ -1,4 +1,4 @@
-# TinyMind_RMB-Identification
+# TinyMind_RMB_Identification
 具体比赛网址：https://www.tinymind.cn/competitions/47#overview
 # A、热身赛描述
 识别人民币的面值，采用的训练集train_data 39620张图片，测试集public_test_data 20000张图片，以及.csv标签文件
